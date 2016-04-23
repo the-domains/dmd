@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[DMD]]></title>
         <description><![CDATA[DMD]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dmd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 11:28:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 11:29:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dmd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BE.]]></title>
             <description><![CDATA[<article><h1>BE.</h1><p>#AGreatCommissioning</p></article>]]></description>
-            <link>undefinedbe/index.html</link>
+            <link>https://thegrid.ai/dmd/be/index.html</link>
             <guid isPermaLink="false">bbeb1dc8-6f9d-494d-96fe-42a42a7e6a78</guid>
-            <pubDate>Sat, 23 Apr 2016 11:28:20 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2016 11:29:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
