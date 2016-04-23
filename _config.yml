@@ -1,0 +1,28 @@
+name: DMD
+favicon: null
+layout_spectrum: 0.6325306047219783
+typography_spectrum: 0.5962263429537416
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.055312435841187835
+  lightness: 0.18431029305793345
+  saturation: 0.8658650980796665
+  rhythmicContrast: 0.5062356689013541
+purpose: []
