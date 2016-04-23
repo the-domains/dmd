@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T11:36:27.270Z'
-dateModified: '2016-04-23T11:35:59.965Z'
+datePublished: '2016-04-23T11:36:43.836Z'
+dateModified: '2016-04-23T11:36:32.487Z'
 title: B E • M A K E • M O V E
 author: []
 sourcePath: _posts/2016-04-23-b-e-m-a-k-e-m-o-v-e.md
