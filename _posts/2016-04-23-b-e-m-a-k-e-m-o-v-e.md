@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Coming November 2016
-datePublished: '2016-04-23T11:37:18.483Z'
-dateModified: '2016-04-23T11:37:03.705Z'
+datePublished: '2016-04-23T11:39:05.546Z'
+dateModified: '2016-04-23T11:37:53.549Z'
 title: B E • M A K E • M O V E
 author: []
 sourcePath: _posts/2016-04-23-b-e-m-a-k-e-m-o-v-e.md
