@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Coming November 2016
-datePublished: '2016-04-24T11:47:11.052Z'
-dateModified: '2016-04-24T11:46:26.669Z'
-title: B E • M A K E • S E N D
+description: ''
+datePublished: '2016-04-24T11:52:06.646Z'
+dateModified: '2016-04-24T11:51:48.475Z'
+title: 'Coming November 2016 '
 author:
   - name: ''
     url: ''
@@ -24,9 +24,8 @@ url: b-e-m-a-k-e-s-e-n-d/index.html
 _type: Article
 
 ---
-## B E • M A K E • S E N D
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d492039-8fb0-468c-9e54-8a3526fcbfdb.jpg)
 
-_Coming November 2016_
+## _Coming November 2016_
 
 **_Be Disciples. Make Disciples. Send Disciples._**
