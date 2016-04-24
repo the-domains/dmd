@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DMD]]></title>
-        <description><![CDATA[DMD]]></description>
+        <title><![CDATA[Disciples Making Disciples]]></title>
+        <description><![CDATA[Disciples Making Disciples]]></description>
         <link>https://thegrid.ai/dmd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 11:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 11:23:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dmd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[B E • M A K E • M O V E]]></title>
-            <description><![CDATA[<article><h1>B E • M A K E • M O V E</h1><h2>BE.</h2><p>Coming November 2016</p></article>]]></description>
+            <title><![CDATA[B E • M A K E • S E N D]]></title>
+            <description><![CDATA[<article><h1>B E • M A K E • S E N D</h1><h2>BE disciples.</h2><p>Coming November 2016</p></article>]]></description>
             <link>https://thegrid.ai/dmd/b-e-m-a-k-e-m-o-v-e/index.html</link>
             <guid isPermaLink="false">ebfea3d6-7957-48a2-a9bc-ff6707e48474</guid>
-            <pubDate>Sat, 23 Apr 2016 11:39:05 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2016 11:22:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
