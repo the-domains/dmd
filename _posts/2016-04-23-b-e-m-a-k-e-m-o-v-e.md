@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Coming November 2016
-datePublished: '2016-04-24T11:29:00.010Z'
-dateModified: '2016-04-24T11:28:53.228Z'
-title: ''
+description: 'Coming November 2016 '
+datePublished: '2016-04-24T11:28:22.594Z'
+dateModified: '2016-04-24T11:27:52.718Z'
+title: BE disciples.
 author: []
 sourcePath: _posts/2016-04-23-b-e-m-a-k-e-m-o-v-e.md
 published: true
@@ -26,8 +26,8 @@ _type: Article
 
 _Coming November 2016_
 
-BE disciples.
+## BE disciples.
 
-MAKE disciples.
+## MAKE disciples.
 
-SEND disciples.
+## SEND disciples.
