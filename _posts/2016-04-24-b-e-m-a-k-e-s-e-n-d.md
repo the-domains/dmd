@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Coming November 2016
-datePublished: '2016-04-24T11:41:30.936Z'
-dateModified: '2016-04-24T11:41:26.384Z'
+datePublished: '2016-04-24T11:47:11.052Z'
+dateModified: '2016-04-24T11:46:26.669Z'
 title: B E • M A K E • S E N D
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-24-b-e-m-a-k-e-s-e-n-d.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-b-e-m-a-k-e-s-e-n-d.md
-published: true
 url: b-e-m-a-k-e-s-e-n-d/index.html
 _type: Article
 
@@ -29,4 +29,4 @@ _type: Article
 
 _Coming November 2016_
 
-**_Be disciples. Make Disciples. Send Disciples._**
+**_Be Disciples. Make Disciples. Send Disciples._**
