@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T08:22:47.387Z'
-dateModified: '2016-04-25T08:22:32.186Z'
+datePublished: '2016-04-25T08:30:59.128Z'
+dateModified: '2016-04-25T08:30:56.487Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-the-coaching-workshop.md
@@ -25,6 +25,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/710cac6d-fd7b-4fa2-8454-8566d3fc705b.jpg)
 
 ****
+
+**18-20 May 2016 | Tauranga**
 
 **_[REGISTER HERE][0]_**
 
