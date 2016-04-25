@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T08:20:10.242Z'
-dateModified: '2016-04-25T08:19:46.996Z'
+datePublished: '2016-04-25T08:22:47.387Z'
+dateModified: '2016-04-25T08:22:32.186Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-the-coaching-workshop.md
