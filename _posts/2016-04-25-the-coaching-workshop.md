@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T08:18:19.783Z'
-dateModified: '2016-04-25T08:17:57.461Z'
+datePublished: '2016-04-25T08:20:10.242Z'
+dateModified: '2016-04-25T08:19:46.996Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-the-coaching-workshop.md
@@ -22,6 +22,8 @@ url: the-coaching-workshop/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/710cac6d-fd7b-4fa2-8454-8566d3fc705b.jpg)
+
 ****
 
 **_[REGISTER HERE][0]_**
@@ -60,7 +62,6 @@ After the 3-day intensive workshop you will be able to:
 **UPGRADE YOUR TRAINING**
 
 You will be able to upgrade your training to receive 21 International Coach Federation-approved training hours for completing this workshop. Creative Results Management offers an upgrade for $450 USD to help you take your coaching to a professional level! All the details are [here][4].
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/710cac6d-fd7b-4fa2-8454-8566d3fc705b.jpg)
 
 [0]: http://www.eventbrite.co.nz/e/the-coaching-workshop-for-christian-leaders-registration-24270013263
 [1]: https://drive.google.com/file/d/0B4NPUsQopjHjeVpEVWxWLXhJR1E/view
