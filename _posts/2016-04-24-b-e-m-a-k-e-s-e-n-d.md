@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Coming November 2016
-datePublished: '2016-04-24T11:57:03.901Z'
-dateModified: '2016-04-24T11:55:32.414Z'
+description: 'DMD Conference | Coming November 2016 | Tauranga'
+datePublished: '2016-04-25T05:00:04.769Z'
+dateModified: '2016-04-25T05:00:03.444Z'
 title: ''
 author:
   - name: ''
@@ -26,6 +26,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/defbeb84-6f6b-49fe-be3d-9510f69cb35e.jpg)
 
-_Coming November 2016_
+_DMD Conference | Coming November 2016 | Tauranga_
 
 **_Be Disciples. Make Disciples. Send Disciples._**
