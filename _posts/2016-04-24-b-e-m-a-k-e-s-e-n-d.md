@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'DMD Conference | Coming November 2016 | Tauranga'
-datePublished: '2016-04-25T05:00:04.769Z'
-dateModified: '2016-04-25T05:00:03.444Z'
+datePublished: '2016-04-29T00:38:28.262Z'
+dateModified: '2016-04-29T00:24:00.032Z'
 title: ''
 author:
   - name: ''
