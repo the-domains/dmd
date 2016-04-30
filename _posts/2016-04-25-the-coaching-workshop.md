@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-28T23:48:08.282Z'
-dateModified: '2016-04-28T23:40:29.300Z'
+datePublished: '2016-04-30T01:17:50.396Z'
+dateModified: '2016-04-30T01:17:40.132Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-the-coaching-workshop.md
@@ -32,7 +32,7 @@ _type: Article
 
 **_**"Integrate Coaching skills into your Leadership and Disciple-Making"**_**
 
-**WHAT IS THE COACHING WORKSHOP?**
+**[WHAT IS THE COACHING WORKSHOP?][1]**
 
 Coaching is not a new program for your church or another thing to add to your already busy schedule. It is an approach to doing ministry. It is a way of leading and equipping others in their walk with God.
 
@@ -40,7 +40,7 @@ Coaching skills will increase your effectiveness in your various ministry and le
 
 It is not just the basics. Based on the book, The COACH Model for Christian Leaders, this workshop is made for those who are experienced as well as those who are not-so-experienced in coaching skills.
 
-You can learn more about what Christian Coaching is at this [link][1].
+You can learn more about what Christian Coaching is at this [link][2].
 
 **WHAT YOU WILL LEARN**
 
@@ -53,7 +53,7 @@ After the 3-day intensive workshop you will be able to:
 * Follow-up to increase learning and accountability.
 * Integrate coaching skills into your leadership roles.
 
-**COHOSTED BY [SOUTH PACIFIC BIBLE COLLEGE][2] and [DISCIPLES MAKING DISCIPLES][3]**
+**COHOSTED BY [SOUTH PACIFIC BIBLE COLLEGE][3] and [DISCIPLES MAKING DISCIPLES][4]**
 
 * 3-Day event | Wednesday 18 May -- Friday 20 May
 * Training is from 9am - 5pm each day
@@ -63,10 +63,11 @@ After the 3-day intensive workshop you will be able to:
 
 **UPGRADE YOUR TRAINING**
 
-You will be able to upgrade your training to receive 21 International Coach Federation-approved training hours for completing this workshop. Creative Results Management offers an upgrade for $450 USD to help you take your coaching to a professional level! All the details are [here][4].
+You will be able to upgrade your training to receive 21 International Coach Federation-approved training hours for completing this workshop. Creative Results Management offers an upgrade for $450 USD to help you take your coaching to a professional level! All the details are [here][5].
 
 [0]: http://www.eventbrite.co.nz/e/the-coaching-workshop-for-christian-leaders-registration-24270013263
-[1]: https://drive.google.com/file/d/0B4NPUsQopjHjeVpEVWxWLXhJR1E/view
-[2]: http://spbc.org.nz/
-[3]: https://www.facebook.com/DMDConference
-[4]: http://www.creativeresultsmanagement.com/workshop
+[1]: https://thegrid.ai/dmd/the-coaching-workshop/
+[2]: https://drive.google.com/file/d/0B4NPUsQopjHjeVpEVWxWLXhJR1E/view
+[3]: http://spbc.org.nz/
+[4]: https://www.facebook.com/DMDConference
+[5]: http://www.creativeresultsmanagement.com/workshop
