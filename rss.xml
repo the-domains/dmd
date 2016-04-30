@@ -4,21 +4,21 @@
         <description><![CDATA[Disciples Making Disciples]]></description>
         <link>https://thegrid.ai/dmd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 00:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 01:18:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dmd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Coaching Workshop]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/dmd/the-coaching-workshop/index.html</link>
+            <guid isPermaLink="false">76bbdb46-997f-48e0-91e3-010866c34811</guid>
+            <pubDate>Sat, 30 Apr 2016 01:17:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BE•MAKE•SEND]]></title>
             <description><![CDATA[<p>DMD Conference | Coming November 2016 | Tauranga</p>]]></description>
             <link>https://thegrid.ai/dmd/b-e-m-a-k-e-s-e-n-d/index.html</link>
             <guid isPermaLink="false">bb20eb39-d9cf-436a-b0a6-5fcfedbff081</guid>
             <pubDate>Fri, 29 Apr 2016 00:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Coaching Workshop]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/dmd/the-coaching-workshop/index.html</link>
-            <guid isPermaLink="false">76bbdb46-997f-48e0-91e3-010866c34811</guid>
-            <pubDate>Thu, 28 Apr 2016 23:48:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
