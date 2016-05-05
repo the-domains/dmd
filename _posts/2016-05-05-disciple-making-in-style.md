@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-05T07:41:47.540Z'
-dateModified: '2016-05-05T07:41:46.681Z'
+datePublished: '2016-05-05T07:43:18.495Z'
+dateModified: '2016-05-05T07:43:08.587Z'
 title: Disciple-Making in Style
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-05-disciple-making-in-style.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-disciple-making-in-style.md
 url: disciple-making-in-style/index.html
 _type: Article
 
@@ -26,7 +26,7 @@ _type: Article
 # Disciple-Making in Style
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85c13c91-a6ab-4560-8a6e-b38147603fc0.png)
 
-[Grab a shirt (or two) and hel][0][p us get the word out!][0]
+[Grab a shirt (or two) and help us get the word out!][0]
 
 _(priced at-cost)_
 
