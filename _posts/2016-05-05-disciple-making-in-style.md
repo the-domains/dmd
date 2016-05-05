@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-05T07:43:18.495Z'
-dateModified: '2016-05-05T07:43:08.587Z'
+datePublished: '2016-05-05T10:53:02.467Z'
+dateModified: '2016-05-05T10:52:56.626Z'
 title: Disciple-Making in Style
 author:
   - name: ''
@@ -28,6 +28,6 @@ _type: Article
 
 [Grab a shirt (or two) and help us get the word out!][0]
 
-_(priced at-cost)_
+_(priced at-cost, made to order)_
 
 [0]: http://dmd.ezymerch.co.nz/
