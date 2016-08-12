@@ -4,8 +4,15 @@
         <description><![CDATA[Disciples Making Disciples]]></description>
         <link>https://thegrid.ai/dmd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 21:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 21:51:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dmd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BE•MAKE•SEND]]></title>
+            <description><![CDATA[<p>DMD Conference | Coming November 2016 | Tauranga</p>]]></description>
+            <link>https://thegrid.ai/dmd/b-e-m-a-k-e-s-e-n-d/index.html</link>
+            <guid isPermaLink="false">bb20eb39-d9cf-436a-b0a6-5fcfedbff081</guid>
+            <pubDate>Fri, 12 Aug 2016 21:51:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get the latest DMD News and Updates]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e061263d-c3a1-436d-8bd3-812a515548d5.png" alt="" title="">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/dmd/disciple-making-in-style/index.html</link>
             <guid isPermaLink="false">a558e51e-0e36-4f7e-ba77-d72246957af1</guid>
             <pubDate>Thu, 05 May 2016 10:53:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BE•MAKE•SEND]]></title>
-            <description><![CDATA[<p>DMD Conference | Coming November 2016 | Tauranga</p>]]></description>
-            <link>https://thegrid.ai/dmd/b-e-m-a-k-e-s-e-n-d/index.html</link>
-            <guid isPermaLink="false">bb20eb39-d9cf-436a-b0a6-5fcfedbff081</guid>
-            <pubDate>Fri, 29 Apr 2016 00:38:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
