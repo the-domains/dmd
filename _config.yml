@@ -1,11 +1,6 @@
-name: Disciples Making Disciples
-layout_spectrum: 0.16231
 typography_spectrum: 0.81673
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -17,11 +12,20 @@ color:
   lightness: 0.6875
   saturation: 0.875
   rhythmicContrast: 1
-purpose: []
-title: Disciples Making Disciples
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.16231
+analytics: {}
 author:
   name: ''
   url: ''
   email: ''
-content_rating:
-  adult: false
+name: Disciples Making Disciples
+cta: {}
+navigation:
+  - name: Subscribe to Updates
+    id: a3e40d31-5ee8-4534-a94c-b424c9b57bfc
+    type: content
+title: Disciples Making Disciples
+purpose: []
