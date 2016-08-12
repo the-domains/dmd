@@ -5,20 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: CLICK HERE to SUBSCRIBE
-datePublished: '2016-05-01T03:48:32.110Z'
-dateModified: '2016-05-01T03:48:22.701Z'
+datePublished: '2016-08-12T21:28:49.816Z'
+dateModified: '2016-08-12T21:28:48.644Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-30-get-the-latest-dmd-news-and-updates.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
 starred: false
 url: get-the-latest-dmd-news-and-updates/index.html
 _type: Article
