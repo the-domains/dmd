@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Disciples Making Disciples]]></title>
-        <description><![CDATA[Disciples Making Disciples]]></description>
+        <title><![CDATA[BE•MAKE•SEND]]></title>
+        <description><![CDATA[BE•MAKE•SEND]]></description>
         <link>https://thegrid.ai/dmd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 22:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 22:35:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dmd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABOUT]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6efed81-a093-4488-9177-9f62830a082c.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/dmd/about/index.html</link>
+            <guid isPermaLink="false">d8d1faaa-8ea5-465e-a563-f4d6a8a2285c</guid>
+            <pubDate>Fri, 12 Aug 2016 22:34:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BE•MAKE•SEND]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4da8261-804c-42a0-82b3-04e6ac70a1d8.jpg">]]></description>
