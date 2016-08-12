@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-12T21:51:28.289Z'
+datePublished: '2016-08-12T21:51:29.692Z'
 sourcePath: _posts/2016-04-24-b-e-m-a-k-e-s-e-n-d.md
 inFeed: true
 authors: []
@@ -9,13 +9,13 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-12T21:51:27.440Z'
+dateModified: '2016-08-12T21:51:29.275Z'
 title: ''
 publisher: {}
 description: DMD Conference | Coming November 2016 | Tauranga
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: b-e-m-a-k-e-s-e-n-d/index.html
 _type: Article
 
