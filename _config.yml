@@ -1,21 +1,21 @@
-typography_spectrum: 0.81673
+typography_spectrum: 0.6216407478787005
 content_rating:
   adult: false
 color:
   brandColors:
-    - '#000000'
-    - '#d2d2d2'
-    - '#353535'
-    - '#9e6a64'
-    - '#f68fa4'
-  brandStrength: 0
-  lightness: 0.6875
-  saturation: 0.875
-  rhythmicContrast: 1
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.029040309134870768
+  lightness: 0.716714505571872
+  saturation: 0.20494724507443607
+  rhythmicContrast: 0.2797303097322583
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.16231
+layout_spectrum: 0.2896104920655489
 analytics: {}
 author:
   name: ''
