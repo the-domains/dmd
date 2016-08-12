@@ -1,20 +1,11 @@
 name: Disciples Making Disciples
-favicon: null
 layout_spectrum: 0.16231
 typography_spectrum: 0.81673
-title: Disciples Making Disciples
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#000000'
@@ -27,3 +18,10 @@ color:
   saturation: 0.875
   rhythmicContrast: 1
 purpose: []
+title: Disciples Making Disciples
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
