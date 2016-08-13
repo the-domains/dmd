@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-08-13T04:49:45.525Z'
+datePublished: '2016-08-13T09:02:17.977Z'
 sourcePath: _posts/2016-08-13-dmd-conference-2016.md
-isBasedOnUrl: 'http://dmdconference2016.eventbrite.co.nz'
 keywords:
   - otumoetai
   - disciples
@@ -16,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-13T04:49:44.763Z'
+dateModified: '2016-08-13T09:02:16.389Z'
 title: ''
 app_links:
   - url: 'com-eventbrite-attendee://event/27103950646/?referrer=eiosurlxfbk'
@@ -50,10 +49,9 @@ app_links:
 publisher: {}
 description: Register for the DMD Conference 2016 today!
 inLanguage: en
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: dmd-conference-2016/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
