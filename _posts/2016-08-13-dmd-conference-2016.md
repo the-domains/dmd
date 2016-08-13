@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-13T04:46:07.715Z'
+datePublished: '2016-08-13T04:49:45.525Z'
+sourcePath: _posts/2016-08-13-dmd-conference-2016.md
 isBasedOnUrl: 'http://dmdconference2016.eventbrite.co.nz'
 keywords:
   - otumoetai
@@ -15,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-13T04:45:34.799Z'
+dateModified: '2016-08-13T04:49:44.763Z'
 title: ''
 app_links:
   - url: 'com-eventbrite-attendee://event/27103950646/?referrer=eiosurlxfbk'
@@ -50,7 +51,6 @@ publisher: {}
 description: Register for the DMD Conference 2016 today!
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-13-dmd-conference-2016.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -62,4 +62,6 @@ _type: MediaObject
 
 <article style=""><h1>DMD Conference 2016</h1><p>What does a follower of Jesus look like today? How do we make and apprentice disciples as we go about life? How do we catalyze and mobilize our churches and groups for the mission of God today? Our theme this year is: Be*Make*Send Disciples | In New Zealand as it is in Heaven God's will is predetermined.</p></article>
 
-Register for the DMD Conference 2016 today!
+**Register for the DMD Conference 2016 today!**
+
+5-6 November | _Otumoetai Church of Christ, Tauranga_
