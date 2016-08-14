@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-14T03:38:05.603Z'
+datePublished: '2016-08-14T03:47:19.783Z'
 sourcePath: _posts/2016-08-13-dmd-conference-2016.md
 hasPage: true
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-14T03:38:04.836Z'
+dateModified: '2016-08-14T03:47:19.690Z'
 title: ''
 app_links:
   - url: 'com-eventbrite-attendee://event/27103950646/?referrer=eiosurlxfbk'
