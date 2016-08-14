@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-14T00:16:55.562Z'
+datePublished: '2016-08-14T00:23:30.380Z'
 sourcePath: _posts/2016-08-13-dmd-conference-2016.md
 keywords:
   - otumoetai
@@ -15,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-14T00:16:50.003Z'
+dateModified: '2016-08-14T00:23:30.227Z'
 title: ''
 app_links:
   - url: 'com-eventbrite-attendee://event/27103950646/?referrer=eiosurlxfbk'
