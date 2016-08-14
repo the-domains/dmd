@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-14T03:52:36.917Z'
+inLanguage: en
 keywords:
   - otumoetai
   - disciples
@@ -11,48 +11,17 @@ keywords:
   - plenty
   - events
   - christ
-related: []
-author: []
-via: {}
-dateModified: '2016-08-14T03:52:36.083Z'
 title: ''
-app_links:
-  - url: 'com-eventbrite-attendee://event/27103950646/?referrer=eiosurlxfbk'
-    type: ios
-    namespace: ai
-    app_name: Eventbrite
-    app_store_id: '487922291'
-  - url: 'com-eventbrite-attendee://event/27103950646/?referrer=eandurlxfbk'
-    type: android
-    namespace: ai
-    app_name: Eventbrite
-    package: com.eventbrite.attendee
-  - url: 'com-eventbrite-attendee://event/27103950646/?referrer=eiosurlxtcar'
-    namespace: twitter
-    type: iphone
-    name: Eventbrite
-    id: '487922291'
-  - url: 'com-eventbrite-attendee://event/27103950646/?referrer=eandurlxtcar'
-    namespace: twitter
-    type: googleplay
-    name: Eventbrite
-    id: com.eventbrite.attendee
-  - path: http/www.eventbrite.com/e/27103950646
-    package: com.eventbrite.attendee
-    namespace: google
-    type: android
-  - path: com-eventbrite-attendee/event/27103950646/?referrer=eandurlxgoog
-    package: com.eventbrite.attendee
-    namespace: google
-    type: android
+datePublished: '2016-08-14T21:29:20.728Z'
+dateModified: '2016-08-14T21:27:09.871Z'
 publisher: {}
-description: Register for the DMD Conference 2016 today!
-inLanguage: en
-sourcePath: _posts/2016-08-14-dmd-conference-2016.md
+author: []
 hasPage: true
-starred: false
+description: Register for the DMD Conference 2016 today!
+via: {}
+starred: true
+sourcePath: _posts/2016-08-14-dmd-conference-2016.md
 url: dmd-conference-2016/index.html
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
