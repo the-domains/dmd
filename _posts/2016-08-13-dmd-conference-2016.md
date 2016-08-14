@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-13T09:02:17.977Z'
+datePublished: '2016-08-14T00:04:04.912Z'
 sourcePath: _posts/2016-08-13-dmd-conference-2016.md
 keywords:
   - otumoetai
@@ -15,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-13T09:02:16.389Z'
+dateModified: '2016-08-14T00:04:04.287Z'
 title: ''
 app_links:
   - url: 'com-eventbrite-attendee://event/27103950646/?referrer=eiosurlxfbk'
@@ -50,7 +50,7 @@ publisher: {}
 description: Register for the DMD Conference 2016 today!
 inLanguage: en
 hasPage: true
-starred: false
+starred: true
 url: dmd-conference-2016/index.html
 _context: 'http://schema.org'
 _type: MediaObject
