@@ -1,23 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: CLICK HERE to SUBSCRIBE
-datePublished: '2016-08-14T03:54:11.686Z'
-dateModified: '2016-08-14T03:54:11.028Z'
+id: a3e40d31-5ee8-4534-a94c-b424c9b57bfc
+dateModified: '2016-08-24T06:38:20.169Z'
 title: ''
+datePublished: '2016-08-24T06:38:22.119Z'
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-30-get-the-latest-dmd-news-and-updates.md
-authors: []
+hasPage: true
+description: CLICK HERE to SUBSCRIBE
 publisher: {}
 via: {}
 starred: false
+sourcePath: _posts/2016-04-30-get-the-latest-dmd-news-and-updates.md
 url: get-the-latest-dmd-news-and-updates/index.html
-_type: Article
+_type: MediaObject
 
 ---
 [CLICK HERE to SUBSCRIBE][0]
