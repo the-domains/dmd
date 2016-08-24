@@ -1,28 +1,17 @@
 ---
-inLanguage: en
-keywords:
-  - otumoetai
-  - disciples
-  - zealand
-  - '3110'
-  - ngatai
-  - '258'
-  - church
-  - plenty
-  - events
-  - christ
+id: c787cf36-4f4d-4218-ac7f-88fd75a1281d
+dateModified: '2016-08-24T06:37:57.719Z'
 title: ''
-datePublished: '2016-08-24T06:35:33.641Z'
-dateModified: '2016-08-24T06:33:53.679Z'
-publisher: {}
+datePublished: '2016-08-24T06:37:59.315Z'
 author: []
 hasPage: true
 description: Register for the DMD Conference 2016 today!
+publisher: {}
 via: {}
-sourcePath: _posts/2016-08-14-dmd-conference-2016.md
 starred: true
+sourcePath: _posts/2016-08-14-dmd-conference-2016.md
 url: dmd-conference-2016/index.html
-_type: MediaObject
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2355ce3b-c4ee-40ae-b847-b539a4a61395.png)
