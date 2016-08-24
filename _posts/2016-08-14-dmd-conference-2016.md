@@ -1,8 +1,8 @@
 ---
 id: c787cf36-4f4d-4218-ac7f-88fd75a1281d
-dateModified: '2016-08-24T06:45:44.330Z'
+dateModified: '2016-08-24T06:54:09.789Z'
 title: ''
-datePublished: '2016-08-24T06:49:11.598Z'
+datePublished: '2016-08-24T06:54:10.527Z'
 author: []
 hasPage: true
 description: Register for the DMD Conference 2016 today!
