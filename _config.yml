@@ -30,6 +30,9 @@ navigation:
   - name: Register for DMD 2016
     id: c787cf36-4f4d-4218-ac7f-88fd75a1281d
     type: content
+  - name: Subscribe to Updates
+    id: a3e40d31-5ee8-4534-a94c-b424c9b57bfc
+    type: content
 title: Disciples Making Disciples
 description: BE • MAKE • SEND
 purpose: []
