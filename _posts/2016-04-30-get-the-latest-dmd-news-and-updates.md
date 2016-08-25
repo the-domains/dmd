@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T08:17:41.552Z'
+datePublished: '2016-08-25T08:18:34.276Z'
 sourcePath: _posts/2016-04-30-get-the-latest-dmd-news-and-updates.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T08:17:40.766Z'
+dateModified: '2016-08-25T08:18:33.460Z'
 title: ''
 id: a3e40d31-5ee8-4534-a94c-b424c9b57bfc
 publisher: {}
