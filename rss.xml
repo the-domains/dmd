@@ -4,7 +4,7 @@
         <description><![CDATA[Disciples Making Disciples]]></description>
         <link>https://thegrid.ai/dmd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 08:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 08:17:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dmd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ABOUT]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/dmd/about/index.html</link>
             <guid isPermaLink="false">d8d1faaa-8ea5-465e-a563-f4d6a8a2285c</guid>
             <pubDate>Thu, 25 Aug 2016 08:16:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BE•MAKE•SEND]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4da8261-804c-42a0-82b3-04e6ac70a1d8.jpg">]]></description>
-            <link>https://thegrid.ai/dmd/bemakesend/index.html</link>
-            <guid isPermaLink="false">bb20eb39-d9cf-436a-b0a6-5fcfedbff081</guid>
-            <pubDate>Wed, 24 Aug 2016 07:09:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
