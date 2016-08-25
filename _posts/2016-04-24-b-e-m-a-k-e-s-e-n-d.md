@@ -1,23 +1,22 @@
 ---
-datePublished: '2016-08-24T07:09:19.557Z'
+datePublished: '2016-08-25T08:17:11.436Z'
 sourcePath: _posts/2016-04-24-b-e-m-a-k-e-s-e-n-d.md
 inFeed: true
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-24T06:45:34.972Z'
+dateModified: '2016-08-25T08:17:10.776Z'
 title: ''
 publisher: {}
 description: DMD Conference | Coming November 2016 | Tauranga
 inLanguage: null
 inNav: false
 starred: false
-url: bemakesend/index.html
-_type: Article
+_type: Blurb
 
 ---
 _DMD Conference | Coming November 2016 | Tauranga_
