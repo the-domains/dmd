@@ -27,9 +27,6 @@ navigation:
   - name: About
     id: d8d1faaa-8ea5-465e-a563-f4d6a8a2285c
     type: content
-  - name: Register for DMD 2016
-    url: dmdconference2016.eventbrite.co.nz
-    type: external
   - name: Subscribe to Updates
     id: a3e40d31-5ee8-4534-a94c-b424c9b57bfc
     type: content
