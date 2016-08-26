@@ -1,16 +1,15 @@
 ---
-datePublished: '2016-08-25T23:04:30.350Z'
+datePublished: '2016-08-25T23:05:30.742Z'
 sourcePath: _posts/2016-08-14-dmd-conference-2016.md
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-25T23:04:29.247Z'
+dateModified: '2016-08-25T23:05:25.945Z'
 title: ''
 publisher: {}
 description: Register for the DMD Conference 2016 today!
 starred: true
-url: dmd-conference-2016/index.html
 _type: Blurb
 
 ---
