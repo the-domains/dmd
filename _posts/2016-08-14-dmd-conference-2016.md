@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-25T23:05:30.742Z'
+datePublished: '2016-08-25T23:08:13.651Z'
 sourcePath: _posts/2016-08-14-dmd-conference-2016.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-25T23:05:25.945Z'
+dateModified: '2016-08-25T23:08:12.600Z'
 title: ''
 publisher: {}
 description: Register for the DMD Conference 2016 today!
@@ -18,10 +18,6 @@ _type: Blurb
 <article style=""><h1>DMD Conference 2016</h1><p>What does a follower of Jesus look like today? How do we make and apprentice disciples as we go about life? How do we catalyze and mobilize our churches and groups for the mission of God today? Our theme this year is: Be•Make•Send Disciples | In New Zealand as it is in Heaven...</p></article>
 
 **[Register for the DMD Conference 2016 today!][0]**
-
-**[Register for the DMD Conference 2016 today!][0]**
-
-5-6 November | _Otumoetai Church of Christ, Tauranga_
 
 5-6 November | _Otumoetai Church of Christ, Tauranga_
 
