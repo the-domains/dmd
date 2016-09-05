@@ -1,16 +1,17 @@
 ---
 title: ''
-datePublished: '2016-09-02T07:56:13.544Z'
-dateModified: '2016-09-02T07:56:05.272Z'
+datePublished: '2016-09-02T08:55:43.010Z'
+dateModified: '2016-09-02T08:55:39.088Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: false
 description: Register for the DMD Conference 2016 today!
 via: {}
+isBasedOnUrl: 'https://www.eventbrite.co.nz/e/dmd-conference-2016-tickets-27103950646'
 starred: true
 sourcePath: _posts/2016-08-14-dmd-conference-2016.md
-_type: Blurb
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2355ce3b-c4ee-40ae-b847-b539a4a61395.png)
