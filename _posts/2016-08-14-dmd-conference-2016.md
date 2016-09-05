@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-25T23:08:13.651Z'
-sourcePath: _posts/2016-08-14-dmd-conference-2016.md
+title: ''
+datePublished: '2016-09-02T07:56:13.544Z'
+dateModified: '2016-09-02T07:56:05.272Z'
+publisher: {}
+author: []
 inFeed: true
 hasPage: false
-author: []
-via: {}
-dateModified: '2016-08-25T23:08:12.600Z'
-title: ''
-publisher: {}
 description: Register for the DMD Conference 2016 today!
+via: {}
 starred: true
+sourcePath: _posts/2016-08-14-dmd-conference-2016.md
 _type: Blurb
 
 ---
@@ -21,4 +21,4 @@ _type: Blurb
 
 5-6 November | _Otumoetai Church of Christ, Tauranga_
 
-[0]: http://dmdconference2016.eventbrite.co.nz/
+[0]: https://www.eventbrite.co.nz/e/dmd-conference-2016-tickets-27103950646
