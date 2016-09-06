@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-09-03T04:39:27.471Z'
+datePublished: '2016-09-03T04:44:02.451Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-03T04:38:37.005Z'
+dateModified: '2016-09-03T04:44:01.697Z'
 title: ''
 publisher: {}
 description: >-
   What does a follower of Jesus look like today? How do we make and apprentice
   disciples as we go about life? How do we catalyze and mobilize our churches
   and groups for the mission of God today?
-starred: false
 sourcePath: >-
   _posts/2016-09-03-what-does-a-follower-of-jesus-look-like-today-how-do-we-mak.md
+starred: true
 _type: Blurb
 
 ---
