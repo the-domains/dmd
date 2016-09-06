@@ -1,16 +1,16 @@
 ---
-isBasedOnUrl: 'https://www.eventbrite.co.nz/e/dmd-conference-2016-tickets-27103950646'
-title: ''
-datePublished: '2016-09-02T09:51:49.880Z'
-dateModified: '2016-09-02T09:51:21.665Z'
-publisher: {}
-author: []
-inFeed: true
-hasPage: false
-description: Register for the DMD Conference 2016 today!
-via: {}
-starred: true
+datePublished: '2016-09-03T04:20:59.565Z'
 sourcePath: _posts/2016-08-14-dmd-conference-2016.md
+inFeed: true
+isBasedOnUrl: 'https://www.eventbrite.co.nz/e/dmd-conference-2016-tickets-27103950646'
+hasPage: false
+author: []
+via: {}
+dateModified: '2016-09-03T04:20:58.856Z'
+title: ''
+publisher: {}
+description: Register for the DMD Conference 2016 today!
+starred: true
 _type: MediaObject
 
 ---
