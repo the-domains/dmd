@@ -1,6 +1,5 @@
-typography_spectrum: 0.6352411701809615
-content_rating:
-  adult: false
+layout_spectrum: 0.6810019514523447
+typography_spectrum: 0.5794375753030181
 color:
   brandColors:
     - '#2C3E50'
@@ -12,10 +11,11 @@ color:
   lightness: 0.716714505571872
   saturation: 0.20494724507443607
   rhythmicContrast: 0.2797303097322583
+content_rating:
+  adult: false
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.2896104920655489
 analytics: {}
 author:
   name: Elijah Peters
